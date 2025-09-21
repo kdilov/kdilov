@@ -7,6 +7,7 @@ Software Engineering Student | Python & Cloud Enthusiast
 Currently based in Edinburgh, seeking to expand technical and problem-solving skills through real-world projects and collaborative opportunities. Comfortable working on everything from Python web dashboards (Dash, Flask, Plotly) and API integrations to automating tasks with Go, Docker, and AWS. Eager to contribute to fast-paced teams, learn from experienced engineers, and continue growing as a detail-oriented and dependable developer
 
 * 🌍  I'm based in Edinburgh
+* 🖥️  See my portfolio at [My portfolio](http://kdilov.github.io/)
 * ✉️  You can contact me at [kdilov@protonmail.com](mailto:kdilov@protonmail.com)
 * 🧠  I'm currently learning AWS Solutions Architecture, Python (advanced), API integrations, and cloud-native deployments using Docker and GitHub Actions.
 * 👥  I'm looking to collaborate on Data visualization dashboards, workflow automation, DevOps process improvements, and impactful open-source projects using Python or cloud services
