@@ -7,7 +7,7 @@ Software Engineering Student | Python & Cloud Enthusiast
 Currently based in Edinburgh, seeking to expand technical and problem-solving skills through real-world projects and collaborative opportunities. Comfortable working on everything from Python web dashboards (Dash, Flask, Plotly) and API integrations to automating tasks with Go, Docker, and AWS. Eager to contribute to fast-paced teams, learn from experienced engineers, and continue growing as a detail-oriented and dependable developer
 
 * 🌍  I'm based in Edinburgh
-* 🖥️  See my portfolio at [My portfolio](http://kdilov.github.io/)
+* 🖥️  See my portfolio at [kdilov.github.io](http://kdilov.github.io/)
 * ✉️  You can contact me at [kdilov@protonmail.com](mailto:kdilov@protonmail.com)
 * 🧠  I'm currently learning AWS Solutions Architecture, Python (advanced), API integrations, and cloud-native deployments using Docker and GitHub Actions.
 * 👥  I'm looking to collaborate on Data visualization dashboards, workflow automation, DevOps process improvements, and impactful open-source projects using Python or cloud services
@@ -20,6 +20,7 @@ Currently based in Edinburgh, seeking to expand technical and problem-solving sk
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kdilov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/konstantindilov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
