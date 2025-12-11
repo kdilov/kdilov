@@ -9,15 +9,20 @@ Software Engineering student at Edinburgh Napier University. I build internal to
 - Built real-time IT metrics dashboards with Dash and Plotly for system health and ticket tracking
 - Automated security vulnerability checks to reduce manual audit time
 
-**Garage Inventory System** — [View Project](https://github.com/kdilov/garage)
+**Garage Inventory System** — [View Project](https://github.com/kdilov/garage-inventory)
 - Flask web app with QR code generation/scanning for item lookup
 - User authentication, role-based access, and admin analytics dashboard
 
+**Echoes of Light** — [View Project](https://github.com/kdilov/echoes-of-light)
+- 2D puzzle game built with C++ and SFML for Edinburgh Napier's Games Engineering module
+- Entity Component System architecture with light physics, beam reflections, and enemy AI
+- Collaborated with 3 other developers using Git for version control
+
 ## What I Work With
 
-**Languages:** Python, SQL, Go, C#, HTML/CSS  
-**Frameworks:** Flask, Dash, FastAPI, Plotly, BeautifulSoup  
-**Tools:** Git, Docker, AWS, Linux, GitHub Actions
+**Languages:** Python, C++, SQL, Go, C#, HTML/CSS  
+**Frameworks:** Flask, Dash, FastAPI, Plotly, BeautifulSoup, SFML  
+**Tools:** Git, Docker, AWS, Linux, CMake, GitHub Actions
 
 ## Currently Learning
 
