@@ -4,6 +4,11 @@ Software Engineering student at Edinburgh Napier University. I build internal to
 
 ## Recent Work
 
+**Freelance Python Developer @ Upwork** (2024 – Present)
+- Built a Google Trends scraper for a client, extracting search interest data across 300+ keywords with automated rate limiting and progress tracking
+- Developed Playwright browser automation to extract SEMrush analytics for 320+ domains, handling authentication, page interactions, and CSV consolidation
+- Client returned for a second project after a successful first delivery
+
 **IT Operations Intern @ Cirrus Logic** (2024)
 - Migrated a legacy wiki to a modern platform using Python and BeautifulSoup, preserving structure across hundreds of pages
 - Built real-time IT metrics dashboards with Dash and Plotly for system health and ticket tracking
