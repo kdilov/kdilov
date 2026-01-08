@@ -4,7 +4,7 @@ Software Engineering student at Edinburgh Napier University. I build internal to
 
 ## Recent Work
 
-**Freelance Python Developer @ Upwork** (2024 – Present)
+**Freelance Python Developer @ Upwork** (2025 – Present)
 - Built a Google Trends scraper for a client, extracting search interest data across 300+ keywords with automated rate limiting and progress tracking
 - Developed Playwright browser automation to extract SEMrush analytics for 320+ domains, handling authentication, page interactions, and CSV consolidation
 - Client returned for a second project after a successful first delivery
