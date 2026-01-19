@@ -14,7 +14,7 @@ Software Engineering student at Edinburgh Napier University. I build internal to
 - Built real-time IT metrics dashboards with Dash and Plotly for system health and ticket tracking
 - Automated security vulnerability checks to reduce manual audit time
 
-**Garage Inventory System** — [View Project](https://github.com/kdilov/garage-inventory)
+**Garage Inventory System** — [View Project](https://github.com/kdilov/garage)
 - Flask web app with QR code generation/scanning for item lookup
 - User authentication, role-based access, and admin analytics dashboard
 
