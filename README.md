@@ -1,6 +1,6 @@
 # Konstantin Dilov
 
-Software Engineering student at Edinburgh Napier University. I build internal tools, dashboards, and automation that make technical teams more efficient.
+Software Engineering graduate with hands-on experience building tools and automation for engineering teams at Cirrus Logic. I developed Python utilities and dashboards that the team adopted into their daily workflow, migrated 1,000+ legacy wiki pages to Confluence, and automated security checks across the Atlassian stack. I also deliver data extraction tools and browser automation for freelance clients. I enjoy creating software that solves real problems and makes people's work easier.
 
 ## Recent Work
 
@@ -14,6 +14,14 @@ Software Engineering student at Edinburgh Napier University. I build internal to
 - Built real-time IT metrics dashboards with Dash and Plotly for system health and ticket tracking
 - Automated security vulnerability checks to reduce manual audit time
 
+## Projects
+
+**Tennis Rankings App** — [Backend](https://github.com/kdilov/tennis-project) | [Frontend](https://github.com/kdilov/tennis-rankings-frontend) | [Live Demo](http://tennis-rankings-frontend.s3-website.eu-west-2.amazonaws.com) *(Work in Progress)*
+- Full-stack app displaying live ATP rankings with Python/FastAPI backend and React frontend
+- Deployed on AWS using Lambda, ECR, API Gateway, and S3
+- CI/CD pipeline with GitHub Actions for automated testing and deployment
+- Planned features: Redis caching, Claude AI integration for natural language queries
+
 **Garage Inventory System** — [View Project](https://github.com/kdilov/garage)
 - Flask web app with QR code generation/scanning for item lookup
 - User authentication, role-based access, and admin analytics dashboard
@@ -25,9 +33,10 @@ Software Engineering student at Edinburgh Napier University. I build internal to
 
 ## What I Work With
 
-**Languages:** Python, C++, SQL, Go, C#, HTML/CSS  
-**Frameworks:** Flask, Dash, FastAPI, Plotly, BeautifulSoup, SFML  
-**Tools:** Git, Docker, AWS, Linux, CMake, GitHub Actions
+**Frontend**: HTML/CSS, React 
+**Backend & APIs**: Python, Flask, Go, C++, REST APIs 
+**Data & Testing**: Relational Databases, Pandas, Dash, Plotly, pytest, Playwright 
+**DevOps & Tooling**: Git, Gitlab, Docker, AWS, Jira, Confluence
 
 ## Currently Learning
 
