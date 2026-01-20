@@ -33,10 +33,13 @@ Software Engineering graduate with hands-on experience building tools and automa
 
 ## What I Work With
 
-**Frontend**: HTML/CSS, React 
-**Backend & APIs**: Python, Flask, Go, C++, REST APIs 
-**Data & Testing**: Relational Databases, Pandas, Dash, Plotly, pytest, Playwright 
-**DevOps & Tooling**: Git, Gitlab, Docker, AWS, Jira, Confluence
+**Frontend:**  HTML/CSS, React 
+
+**Backend & APIs:** Python, Flask, Go, C++, REST APIs 
+
+**Data & Testing:** Relational Databases, Pandas, Dash, Plotly, pytest, Playwright 
+
+**DevOps & Tooling:** Git, Gitlab, Docker, AWS, Jira, Confluence
 
 ## Currently Learning
 
