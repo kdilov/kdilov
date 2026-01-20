@@ -35,7 +35,7 @@ Software Engineering graduate with hands-on experience building tools and automa
 
 **Frontend:**  HTML/CSS, React 
 
-**Backend & APIs:** Python, Flask, Go, C++, REST APIs 
+**Backend & APIs:** Python, Flask, FastAPI, C++, REST APIs 
 
 **Data & Testing:** Relational Databases, Pandas, Dash, Plotly, pytest, Playwright 
 
